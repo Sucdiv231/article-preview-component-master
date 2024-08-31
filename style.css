@@ -6,7 +6,7 @@
     --Light-Grayish-Blue: hsl(210, 46%, 95%);
 }
 
-body{
+body,main{
     height: 100vh;
     display: flex;
     flex-direction: column;
