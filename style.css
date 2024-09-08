@@ -130,7 +130,7 @@ font-weight: bolder;
 
 @media screen and (max-width:900px) {
     .container{
-        width: 80%;
+        width: 100%;
         display: flex ;
         flex-direction: column;
     }
