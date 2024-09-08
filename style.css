@@ -144,17 +144,17 @@ font-weight: bolder;
 
     .col_1{
         width: 100%;
-        border-radius: none;
+        border-radius: 0;
     }
     .col_1 img{
 
-        border-radius: none;
+        border-radius: 0;
     }
   
     .col_2{
         width: auto;
         background-color: white;
-        border-radius: 0rem 0rem 1rem 1rem;
+        border-radius: 0;
         padding: 2rem;
     }
 
